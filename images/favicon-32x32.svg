@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="28px" viewBox="0 0 32 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon-32x32</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="favicon-32x32" transform="translate(1.412677, 0.698603)" fill-rule="nonzero">
+            <polygon id="Polygon" stroke="#2F2F41" fill="#2F2F41" points="19.7193984 8.8817842e-16 24.3444574 2.69204766 24.3444574 8.08465958 19.7193984 10.7767072 15.0943393 8.08465958 15.0943393 2.69204766"></polygon>
+            <polygon id="Polygon" stroke="#2F2F41" fill="#2F2F41" points="24.5495871 7.91304348 29.1746461 10.6050911 29.1746461 15.9977031 24.5495871 18.6897507 19.924528 15.9977031 19.924528 10.6050911"></polygon>
+            <polygon id="Polygon" stroke="#2F2F41" fill="#2F2F41" points="19.7193984 15.826087 24.3444574 18.5181346 24.3444574 23.9107465 19.7193984 26.6027942 15.0943393 23.9107465 15.0943393 18.5181346"></polygon>
+            <polygon id="Polygon" stroke="#57ACDC" fill="#57ACDC" transform="translate(9.455248, 21.214441) scale(-1, 1) translate(-9.455248, -21.214441) " points="9.45524831 15.826087 14.0803074 18.5181346 14.0803074 23.9107465 9.45524831 26.6027942 4.8301893 23.9107465 4.8301893 18.5181346"></polygon>
+            <polygon id="Polygon" stroke="#57ACDC" fill="#57ACDC" transform="translate(4.625059, 13.301397) scale(-1, 1) translate(-4.625059, -13.301397) " points="4.62505904 7.91304348 9.25011809 10.6050911 9.25011809 15.9977031 4.62505904 18.6897507 0 15.9977031 0 10.6050911"></polygon>
+            <polygon id="Polygon" stroke="#57ACDC" fill="#57ACDC" transform="translate(9.455248, 5.388354) scale(-1, 1) translate(-9.455248, -5.388354) " points="9.45524831 8.8817842e-16 14.0803074 2.69204766 14.0803074 8.08465958 9.45524831 10.7767072 4.8301893 8.08465958 4.8301893 2.69204766"></polygon>
+        </g>
+    </g>
+</svg>

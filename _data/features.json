@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Privacy",
+    "description": "This site is hosted on GitHub Pages with a custom domain. It respects your privacy (no Google Analytics, no forms, no cookies, no tracking).",
+    "image": {
+      "url": "images/features/privacy.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "GDPR Compliance",
+    "description": "This site does not use any invasive tracking cookies nor collect personal data during your visit thus not requiring consent for GDPR compliancy.",
+    "image": {
+      "url": "images/features/gdpr.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "All Rights Reserved",
+    "description": "Synappser retains all rights to this site's content (text or graphic assets) and no one may reproduce, distribute, or create derivative works from it.",
+    "image": {
+      "url": "images/features/copyright.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

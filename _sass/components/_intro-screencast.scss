@@ -1,0 +1,105 @@
+.preview {
+  width: 100%;
+  height: auto;
+  font-size: 0;
+  line-height: 0;
+  position: relative;
+  margin-top: -40px;
+  // background: #ececec url(images/screencasts/01-ff-preview.png);
+  background: #ececec;
+  background-size: contain;
+  box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.3); border-radius: calc(min(5px, 1vw));
+  width: 450px;
+  // aspect-ratio: 1280 / 800;
+  
+  max-width: none;
+  padding: 0;
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(md) {
+    position: absolute;
+    top: 30px;
+    left: -10px;
+    width: 300px;
+  }
+  @include media-breakpoint-up(lg) {
+    position: static;
+    float: right;
+    width: 450px;
+  }
+  @include media-breakpoint-up(xl) {
+    position: relative;
+    float: right;
+    left: 100px;
+    width: 450px;
+  }
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
+}
+
+.preview video {
+  width: 450px;
+  // aspect-ratio: 1280 / 800;
+  border-radius: calc(min(5px, 1vw));
+  margin: 0;
+  padding: 0;
+  opacity: 0.005;
+  
+  max-width: none;
+  padding: 0;
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(md) {
+    position: absolute;
+    width: 300px;
+  }
+  @include media-breakpoint-up(lg) {
+    position: static;
+    float: right;
+    width: 450px;
+  }
+  @include media-breakpoint-up(xl) {
+    position: static;
+    float: right;
+    width: 450px;
+  }
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
+}
+.preview video:focus {
+  outline: none;
+}
+
+.preview .play-curtain {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
+}
+.preview .play-curtain .button {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  width: 144px;
+  height: 144px;
+  margin: -72px 0 0 -72px;
+  border-radius: 50%;
+  background-image: radial-gradient(circle at 50% 120%, #FF9247 0%, #FF763A 47%, #FA5726 86%);
+  transition: 100ms transform;
+}
+.preview .button svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -29px 0 0 -18px;
+}
+.preview .play-curtain:hover .button {
+  transform: scale(1.04);
+}
+

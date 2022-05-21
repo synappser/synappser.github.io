@@ -1,0 +1,29 @@
+---
+title: "AutoRaise"
+date: 2018-12-20T13:44:23+10:00
+draft: false
+image: "images/apps/autoraise.png"
+intro_image: "images/iMac.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+jobtitle: "Utilities"
+linkedinurl: "https://www.linkedin.com/"
+weight: 3
+layout: app
+---
+
+**Dramatically reduce the number of clicks needed in your daily workflows!**
+
+**AutoRaise** helps you **move significantly faster** through your daily window switching on your Mac.
+
+Basically, when you hover your cursor over a window, **AutoRaise** brings it to front after the delay you have set (e.g. 0.03s) without clicking on that window. This feature is called focus follows mouse and is quite common under Linux. If you have checked "Handle Desktop as a window", it also brings the last opened Finder window to front when you hover over your Desktop.
+
+This **focus-follow-mouse** feature automatically raises the window under the cursor (a feature commonly available on Linux distributions such as Ubuntu where it is called Sloppy Focus).
+
+## Stop searching for windows
+
+**AutoRaise** has the additional option of bringing all windows in an application to the front (the classic window behavior).
+
+[All Windows Appear](https://www.ixeau.com/all-windows-appear/) by **IXeau** has a similar goal. One caveat though: you must also click on one application window instead of just hovering over it like with **AutoRaise**.
+
+[Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}

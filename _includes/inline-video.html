@@ -1,0 +1,27 @@
+{% if page.intro_image %}
+<a class="play-button d-none d-md-block" href="#hiding" onclick="unhide()" style="text-decoration: none;">
+  <img width="75" height="75" src="{{ 'images/illustrations/play.svg' | relative_url }}">
+  Watch the video on how to install FinderFix
+</a>
+<div id="hiding" class="pb-2 d-none">
+  <video class="inline-video" id="demo" muted controls autoplay loop style="opacity: 1; width: 80vw; height: auto;">
+    <source src="{{ page.extra_image | relative_url }}" type="video/mp4">
+    <p>Your browser does not support the video tag.</p>
+  </video>
+  <div class="play-curtain" id="play" style="display: none;">
+    <div class="button">
+      <svg width="47" height="57" xmlns="http://www.w3.org/2000/svg">
+        <path d="M7.666.83l36.998 23.316a5 5 0 010 8.46L7.666 55.922A5 5 0 010 51.692V5.06A5 5 0 017.666.83z" fill="#FFF" fill-rule="evenodd"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script>
+  function unhide() {
+    var element = document.getElementById('hiding');
+    element.classList.remove('d-none');
+    var video = document.getElementById('demo');
+    video.play();
+  }
+</script>
+{% endif %}

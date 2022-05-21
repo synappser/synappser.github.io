@@ -1,0 +1,68 @@
+---
+layout: default
+bodyClass: "page-apps"
+---
+
+<div class="intro">
+    <div class="container">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+                {{ content }}
+            </div>
+            {% if page.intro_image %}
+            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+                <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="container pt-6 pb-6">
+    <div class="row">
+        {% assign promoted_apps = site.apps | where: "promoted", true | sort: "weight" %}
+        {% for app in promoted_apps %}
+        <div class="col-12 col-md-6 mb-2">
+            <div class="app app-summary app-summary-large">
+                {% if app.image %}
+                <div class="app-image">
+                    <img width="90" height="90" alt="{{ app.title }}" class="img-fluid mb-2" src="{{ app.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="app-meta">
+                    <h2 class="app-name"><a href="{{ app.url | relative_url }}">{{ app.title }}</a></h2>
+                    <p class="app-description">{{ app.jobtitle }}</p>
+                    {% if app.linkedinurl %}
+                    <!-- <a target="_blank" href="{{ site.baseurl }}/downloads" rel="noreferrer">Download</a> -->
+                    <a href="{{ site.baseurl }}/downloads" rel="noreferrer">Download</a>
+                    {% endif %}
+                </div>
+                <!-- <div class="app-content">{{ app.content | truncate: 120 }}</div>
+                <a href="{{ app.url }}">read more...</a> -->
+                <div class="app-content">{{ app.content | split:'<!--break-->' | first }}</div>
+                {% if app.content contains '<!--break-->' %}
+                    <a href="{{ app.url }}">read more...</a>
+                 {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row pt-6 pb-6">
+        {% assign apps = site.apps | where: "promoted", empty | sort: "weight" %}
+        {% for app in apps %}
+        <div class="col-12 col-md-4 mb-3">
+            <div class="app app-summary">
+                {% if app.image %}
+                <div class="app-image">
+                    <img width="60" height="60" alt="{{ app.title }}" class="img-fluid mb-2" src="{{ app.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="app-meta">
+                    <h2 class="app-name"><a href="{{ app.url | relative_url }}">{{ app.title }}</a></h2>
+                    <p class="app-description">{{ app.jobtitle }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

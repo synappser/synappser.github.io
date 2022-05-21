@@ -1,0 +1,24 @@
+main:
+  - name: "Betas"
+    url: "/services/"
+    weight: 2
+  - name: "Apps"
+    url: "/apps/"
+    weight: 3
+  - name: "Blog"
+    url: "/blog/"
+    weight: 4
+  - name: "About"
+    url: "/about/"
+    weight: 5
+  - name: "Contact"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="45px" viewBox="0 0 48 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-mobile</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-mobile" transform="translate(0.795600, 1.132086)" fill-rule="nonzero">
+            <polygon id="Polygon" stroke="#2F2F41" fill="#2F2F41" points="31.0440223 1.77635684e-15 38.5597433 4.32650517 38.5597433 12.9745406 31.0440223 17.3010458 23.5283014 12.9745406 23.5283014 4.32650517"></polygon>
+            <polygon id="Polygon" stroke="#2F2F41" fill="#2F2F41" points="38.8930789 12.7173913 46.4087999 17.0438965 46.4087999 25.6919319 38.8930789 30.0184371 31.377358 25.6919319 31.377358 17.0438965"></polygon>
+            <polygon id="Polygon" stroke="#2F2F41" fill="#2F2F41" points="31.0440223 25.4347826 38.5597433 29.7612878 38.5597433 38.4093232 31.0440223 42.7358284 23.5283014 38.4093232 23.5283014 29.7612878"></polygon>
+            <polygon id="Polygon" stroke="#57ACDC" fill="#57ACDC" transform="translate(15.364776, 34.085306) scale(-1, 1) translate(-15.364776, -34.085306) " points="15.3647764 25.4347826 22.8804973 29.7612878 22.8804973 38.4093232 15.3647764 42.7358284 7.8490554 38.4093232 7.8490554 29.7612878"></polygon>
+            <polygon id="Polygon" stroke="#57ACDC" fill="#57ACDC" transform="translate(7.515721, 21.367914) scale(-1, 1) translate(-7.515721, -21.367914) " points="7.51572094 12.7173913 15.0314419 17.0438965 15.0314419 25.6919319 7.51572094 30.0184371 0 25.6919319 0 17.0438965"></polygon>
+            <polygon id="Polygon" stroke="#57ACDC" fill="#57ACDC" transform="translate(15.364776, 8.650523) scale(-1, 1) translate(-15.364776, -8.650523) " points="15.3647764 1.77635684e-15 22.8804973 4.32650517 22.8804973 12.9745406 15.3647764 17.3010458 7.8490554 12.9745406 7.8490554 4.32650517"></polygon>
+        </g>
+    </g>
+</svg>

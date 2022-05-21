@@ -1,0 +1,58 @@
+---
+layout: default
+bodyClass: "page-posts"
+---
+
+<div class="intro">
+    <div class="container">
+        <div class="row justify-content-start">
+            <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+                {{ content }}
+            </div>
+            {% if page.intro_image %}
+            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+                <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<!-- <div class="container pt-6 pb-6"> -->
+    <div class="container pt-1 pb-6">
+    <div class="row">
+        <div class="col-12 col-md-6 mb-3">
+            {% assign posts = site.blog %}
+            {% for post in posts %}
+                {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+                
+                  {% if forloop.first %}
+                    <h1 class="mt-0 h1">{{ year }}</h1>
+                    <table class="ml-4">
+                  {% elsif year != prev_year %}
+                    </table>
+                    <h1 class="h1">{{ year }}</h1>
+                    <table class="ml-4">
+                  {% endif %}
+                
+                  {% assign date_format = site.synappser.date_format_short | default: "%b %-d" %}
+                  <tr>
+                    <td class="text-right align-top text-truncate"><h2><time class="text-secondary" datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date: date_format }}</time></h2></td>
+                    <td class="text-center align-top px-1"><h2>|</h2></td>
+                    <td class="text-left align-top"><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2></td>
+                  </tr>
+                  <tr>
+                      <td class="text-right align-top text-truncate"></td>
+                      <td class="text-center align-top px-1"></td>
+                      <td class="text-left align-top pb-2">{{ post.description | escape }}</td>
+                    </tr>
+                
+                  {% if forloop.last %}
+                    </table>
+                  {% endif %}
+                
+                  {% capture prev_year %}{{ year }}{% endcapture %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

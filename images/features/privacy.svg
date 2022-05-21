@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="276px" height="276px" viewBox="0 0 276 276" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Slice" stroke="#000000" stroke-width="10">
+            <circle id="Circle" cx="138" cy="138" r="133"></circle>
+            <g id="Eye" transform="translate(51.000000, 76.000000)">
+                <path d="M0,62.1783932 C19.4244198,20.7261311 48.3148063,0 86.6711595,0 C144.205689,0 174,61.5340057 174,61.8561995 C174,62.1783932 145.235162,123.935819 87.1858959,123.935819 C48.4863851,123.935819 19.4244198,103.35001 0,62.1783932 Z" id="Path"></path>
+                <circle id="Oval" cx="87.6796814" cy="61.8493658" r="33"></circle>
+            </g>
+            <line x1="75" y1="75" x2="201" y2="201" id="Line" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>
