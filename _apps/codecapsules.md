@@ -8,6 +8,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 jobtitle: "Developer Tools"
 linkedinurl: ""
+promoted: false
 weight: 7
 layout: app
 ---

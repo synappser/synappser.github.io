@@ -13,7 +13,7 @@ Give extra powers to your Finder windows!
 
 FinderFix is currently Synappers' only Public Beta.
 
-**To submit issues or feature requests, please head to the [Issues](https://github.com/synappser/FinderFix/issues) page.** You might first need to (freely) sign up to a GitHub account if you do not already own one.
+**To submit issues or feature requests, please head to the [Issues](https://github.com/synappser/FinderFix/issues){:target="_blank"}{:rel="noopener noreferrer"} page.** You might first need to (freely) sign up to a GitHub account if you do not already own one.
 
 <!--break-->
 

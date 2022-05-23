@@ -8,6 +8,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 jobtitle: "Productivity"
 linkedinurl: ""
+promoted: false
 weight: 3
 layout: app
 ---

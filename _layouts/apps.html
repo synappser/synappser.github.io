@@ -48,7 +48,7 @@ bodyClass: "page-apps"
         {% endfor %}
     </div>
     <div class="row pt-6 pb-6">
-        {% assign apps = site.apps | where: "promoted", empty | sort: "weight" %}
+        {% assign apps = site.apps | where: "promoted", false | sort: "weight" %}
         {% for app in apps %}
         <div class="col-12 col-md-4 mb-3">
             <div class="app app-summary">

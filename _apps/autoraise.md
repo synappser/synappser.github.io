@@ -8,6 +8,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 jobtitle: "Utilities"
 linkedinurl: "https://www.linkedin.com/"
+promoted: false
 weight: 3
 layout: app
 ---
@@ -24,6 +25,6 @@ This **focus-follow-mouse** feature automatically raises the window under the cu
 
 **AutoRaise** has the additional option of bringing all windows in an application to the front (the classic window behavior).
 
-[All Windows Appear](https://www.ixeau.com/all-windows-appear/) by **IXeau** has a similar goal. One caveat though: you must also click on one application window instead of just hovering over it like with **AutoRaise**.
+[All Windows Appear](https://www.ixeau.com/all-windows-appear/){:target="_blank"}{:rel="noopener noreferrer"} by **IXeau** has a similar goal. One caveat though: you must also click on one application window instead of just hovering over it like with **AutoRaise**.
 
 [Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}
