@@ -18,7 +18,7 @@ Apps are currently only signed with an Apple Development Certificate (notarizati
 
 | Version | Download | Release notes | Minimum OS
 | ------- | -------- | ------------- | ----------
-| v0.5.9 | [Public Beta](https://github.com/synappser/synappser.github.io/releases) | [Release notes]({{ site.url }}{% link releases/finderfix.md %}) | macOS 10.13
+| v0.5.9 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.5.9/FinderFix_v0.5.9b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix.md %}) | macOS 10.13
 
 {:.pt-1}
 # TrashEye
