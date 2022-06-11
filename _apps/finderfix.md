@@ -37,4 +37,24 @@ Then with the announced demise of TotalFinder, I started porting some of its fea
 
 {% include inline-video.html %}
 
+{:.pb-2 .mt-1 style="font-weight: bold; font-family: 'Playfair Display',serif,-apple-system-ui;"}
+## What people are saying
+
+**Reddit**
+
+> OH MY GOD! Bro you’re a god sent. Thanks man I love this app. Also that cmd + X for cut/paste. Oof so good! - [MrVegetableMan](https://www.reddit.com/r/MacOS/comments/uh8jzu/comment/ia3s66l/?utm_source=share&utm_medium=web2x&context=3)
+
+**MacUpdate**
+
+> LOVE this little gem. Does what it says it'll do. - [Tlance](https://www.macupdate.com/app/mac/63934/finderfix)
+
+**Product Hunt**
+
+> In a tiny footprint, it fixes Finder windows size and position where everything else fails! - [Mac Padan](https://www.producthunt.com/products/finderfix/reviews)
+
+**Softpedia**
+
+> FinderFix is an effective solution for Finder window sizing and positioning issues. - [Catalin Chelariu](https://mac.softpedia.com/get/System-Utilities/FinderFix.shtml)
+
+{:.pt-4}
 [Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}
