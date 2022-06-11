@@ -34,4 +34,4 @@ So here they are, humbly offered to your perusal in a public beta. They will all
 Stay tuned!
 
 {:.pt-2}
-[Blog]({{ site.url }}{% link blog.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Blog]({{ site.url }}{% link blog.md %}){:.button .button-primary style="text-decoration: none;"}

@@ -31,4 +31,4 @@ Upcoming Public Beta (stay tuned!)
 [back to top](#top-anchor)
 
 {:.pt-4}
-[Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}

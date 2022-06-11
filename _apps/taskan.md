@@ -15,4 +15,4 @@ layout: app
 
 Stay tuned!
 
-[Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}

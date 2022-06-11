@@ -37,4 +37,4 @@ Then with the announced demise of TotalFinder, I started porting some of its fea
 
 {% include inline-video.html %}
 
-[Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}

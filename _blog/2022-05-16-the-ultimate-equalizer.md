@@ -17,4 +17,4 @@ I want to be spared the collective boycott (punishment) some developers are gett
 **Disclaimer:** Any similarity with actual or current political events is purely coincidental.
 
 {:.pt-2}
-[Blog]({{ site.url }}{% link blog.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Blog]({{ site.url }}{% link blog.md %}){:.button .button-primary style="text-decoration: none;"}

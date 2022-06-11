@@ -11,4 +11,4 @@ layout: release
 <br />
 
 {:.pt-2}
-[Downloads]({{ site.url }}{% link downloads.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Downloads]({{ site.url }}{% link downloads.md %}){:.button .button-primary style="text-decoration: none;"}

@@ -15,4 +15,4 @@ TrashEye is the upcoming Public Beta.
 
 [Here's a sneak peak at its features]({{ site.url }}/apps/trasheye/).
 
-[Betas]({{ site.url }}{% link services.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Betas]({{ site.url }}{% link services.md %}){:.button .button-primary style="text-decoration: none;"}

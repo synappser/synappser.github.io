@@ -27,4 +27,4 @@ This **focus-follow-mouse** feature automatically raises the window under the cu
 
 [All Windows Appear](https://www.ixeau.com/all-windows-appear/){:target="_blank"}{:rel="noopener noreferrer"} by **IXeau** has a similar goal. One caveat though: you must also click on one application window instead of just hovering over it like with **AutoRaise**.
 
-[Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}

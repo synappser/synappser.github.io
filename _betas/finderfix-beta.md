@@ -9,7 +9,7 @@ layout: service
 {: style="font-weight: bold;"}
 Give extra powers to your Finder windows!
 
-[Download]({{ site.url }}{% link downloads.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Download]({{ site.url }}{% link downloads.md %}){:.button .button-primary style="text-decoration: none;"}
 
 FinderFix is currently Synappers' only Public Beta.
 
@@ -21,4 +21,4 @@ FinderFix is currently Synappers' only Public Beta.
 
 ![image]({{ site.url }}/images/betas/zoom.png){: .zoom }
 
-[Betas]({{ site.url }}{% link services.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Betas]({{ site.url }}{% link services.md %}){:.button .button-primary style="text-decoration: none;"}

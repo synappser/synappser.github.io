@@ -27,4 +27,4 @@ What's remarkable about **TrashEye** is its refresh speed in real-time. It also 
 
 Stay tuned. You'll soon be able to try it!
 
-[Apps]({{ site.url }}{% link apps.md %}/){:.button .button-primary style="text-decoration: none;"}
+[Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}
