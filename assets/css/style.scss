@@ -73,6 +73,11 @@ body {
   }
 }
 
+.sub-heading {
+  font-weight: bold !important;
+  font-family: $font-family-heading !important;
+}
+
 .zoom {
   padding: 5px;
   transition: transform .2s ease;

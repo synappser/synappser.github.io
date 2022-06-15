@@ -17,7 +17,8 @@ bodyClass: "page-app"
       <div class="row">
         <!-- <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" /> -->
         <div class="preview" style="background-image: url({{ page.intro_image_preview | relative_url }})">
-          <video id="demo" muted controls loop style="opacity: 1;">
+          <!-- <video id="demo" muted controls loop style="opacity: 1;"> -->
+          <video id="demo" controls loop style="opacity: 1;">
               <source src="{{ page.intro_image | relative_url }}" type="video/mp4">
               <p>Your browser does not support the video tag.</p>
           </video>

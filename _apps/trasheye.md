@@ -3,7 +3,6 @@ title: "TrashEye"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/apps/trasheye.png"
-intro_image: "images/iMac.png"
 intro_image: "images/screencasts/03-te-video.mp4"
 intro_image_preview: "images/screencasts/03-te-preview.png"
 intro_image_absolute: true

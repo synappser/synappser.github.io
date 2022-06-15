@@ -37,8 +37,8 @@ Then with the announced demise of TotalFinder, I started porting some of its fea
 
 {% include inline-video.html %}
 
-{:.pb-2 .mt-1 style="font-weight: bold; font-family: 'Playfair Display',serif,-apple-system-ui;"}
-## What people are saying
+{:.pb-2 .mt-1 .sub-heading}
+## What People Are Saying
 
 **Reddit**
 

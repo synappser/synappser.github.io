@@ -3,7 +3,8 @@ title: "AutoRaise"
 date: 2018-12-20T13:44:23+10:00
 draft: false
 image: "images/apps/autoraise.png"
-intro_image: "images/iMac.png"
+intro_image: "images/screencasts/04-ar-video.mp4"
+intro_image_preview: "images/screencasts/04-ar-preview.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 jobtitle: "Utilities"
@@ -13,15 +14,18 @@ weight: 3
 layout: app
 ---
 
-**Dramatically reduce the number of clicks needed in your daily workflows!**
+**A focus-follows-mouse implementation on steroids!**
 
-**AutoRaise** helps you **move significantly faster** through your daily window switching on your Mac.
+**AutoRaise** helps you **move significantly faster** through your daily window switching on your Mac and **dramatically reduces the number of clicks** needed in your daily workflows!
 
-Basically, when you hover your cursor over a window, **AutoRaise** brings it to front after the delay you have set (e.g. 0.03s) without clicking on that window. This feature is called focus follows mouse and is quite common under Linux. If you have checked "Handle Desktop as a window", it also brings the last opened Finder window to front when you hover over your Desktop.
+This **focus-follows-mouse** feature automatically raises the window under the cursor (a feature commonly available on Linux distributions such as Ubuntu where it is called Sloppy Focus).
 
-This **focus-follow-mouse** feature automatically raises the window under the cursor (a feature commonly available on Linux distributions such as Ubuntu where it is called Sloppy Focus).
+Basically, when you hover your cursor over a window, **AutoRaise** brings it to front after the delay you have set (e.g. 0.03s) without clicking on that window. If you have checked "Handle Desktop as a window", it also brings the last opened Finder window to front when you hover over your Desktop.
 
-## Stop searching for windows
+AutoRaise and its "Handle Desktop as a window” workflow has improved my personal productivity by leaps and bounds! Now it's your turn!
+
+{:.pb-1 .mt-1 .sub-heading}
+## Stop Searching for Windows
 
 **AutoRaise** has the additional option of bringing all windows in an application to the front (the classic window behavior).
 
