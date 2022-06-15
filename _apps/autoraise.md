@@ -18,6 +18,8 @@ layout: app
 
 **AutoRaise** helps you **move significantly faster** through your daily window switching on your Mac and **dramatically reduces the number of clicks** needed in your daily workflows!
 
+It was calculated that the average user clicks about 6000 times per day. Multiplied by 365 days over 10 years, this equals a hefty **21,900,000 clicks!**
+
 This **focus-follows-mouse** feature automatically raises the window under the cursor (a feature commonly available on Linux distributions such as Ubuntu where it is called Sloppy Focus).
 
 Basically, when you hover your cursor over a window, **AutoRaise** brings it to front after the delay you have set (e.g. 0.03s) without clicking on that window. If you have checked "Handle Desktop as a window", it also brings the last opened Finder window to front when you hover over your Desktop.
