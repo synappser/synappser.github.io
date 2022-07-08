@@ -33,7 +33,7 @@ The only working solution until now was FinderMinder. It was rudimentary, had it
 
 Additionally with M1 Apple silicon chips "on my door steps", I felt the urge to write an alternative in pure modern and fast Swift in an M1 Universal Binary 2.
 
-Then with the announced demise of TotalFinder, I started porting some of its features to **FinderFix**. It's not yet a full replacement of TotalFinder but it already has some of its essential features without compromising the **System Integrity Protection (SIP)** which, by the way, rang the death knell for TotalFinder.
+Then with the announced demise of TotalFinder on January 10, 2021, I started porting some of its features to **FinderFix**. It's not yet a full replacement of TotalFinder but it already has some of its essential features without compromising the **System Integrity Protection (SIP)** which, by the way, rang the death knell for TotalFinder.
 
 {% include inline-video.html %}
 

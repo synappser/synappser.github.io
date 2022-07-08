@@ -9,8 +9,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 jobtitle: "Utilities"
 linkedinurl: "https://www.linkedin.com/example2"
-promoted: true
-weight: 2
+promoted: false
+weight: 3
 layout: app
 ---
 

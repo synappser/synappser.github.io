@@ -10,6 +10,16 @@ Apps are currently only signed with an Apple Development Certificate (notarizati
 {:#top-anchor}
 **IMPORTANT** - [Read this legal note carefully before downloading any of the following beta apps](#legal-anchor).
 
+## FAQ
+
+#### Are these apps pre-releases?
+
+Yes, they are currently in public beta.
+
+#### Are they free to download?
+
+Yes, they are free while in beta.
+
 # FinderFix
 
 | System Requirements |
@@ -19,6 +29,17 @@ Apps are currently only signed with an Apple Development Certificate (notarizati
 | Version | Download | Release notes | Minimum OS
 | ------- | -------- | ------------- | ----------
 | v0.5.9 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.5.9/FinderFix_v0.5.9b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix.md %}) | macOS 10.13
+
+{:.pt-1}
+# AutoRaise
+
+| System Requirements |
+| ------------------- |
+| Mac computer with an Intel or M1 processor |
+
+| Version | Download | Release notes | Minimum OS
+| ------- | -------- | ------------- | ----------
+| v0.6.2 | [Public Beta](https://github.com/synappser/AutoRaise/releases/download/v0.6.2/AutoRaise_v0.6.2b.dmg) | [Release notes]({{ site.url }}{% link releases/autoraise.md %}) | macOS 10.13
 
 {:.pt-1}
 # TrashEye
