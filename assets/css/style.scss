@@ -190,7 +190,7 @@ body {
   .intro img {
     filter: brightness(90%)
   }
-  .service h1 {
+  .service h1, h2, h3, h4 {
     color: $white;
   }
   .content p {
@@ -242,6 +242,9 @@ body {
   .page-blog {
     .title {
       color: $white;
+    }
+    code {
+      color: $gray-400;
     } 
   }
   
