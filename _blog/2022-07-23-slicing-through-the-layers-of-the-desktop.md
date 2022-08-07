@@ -8,7 +8,7 @@ description: A sophisticated layered system of windows
 
 ![Slicing]({{ site.url }}/images/blog/Slicing.gif)
 
-As you might guess, under the seemingly flat appearance of the Desktop lies a sophisticated layered system of windows that **AutoRaise** must take into account to efficiently perform its tasks.
+As you might guess, under the seemingly flat appearance of the Desktop lies a sophisticated layered system of windows that **AutoFocus** (formerly named AutoRaise) must take into account to efficiently perform its tasks.
 
 ```
 Base Window                  # -2147483648
@@ -33,11 +33,11 @@ Cursor Window                # 2147483630
 Maximum Window               # 2147483631
 ```
 
-Out of the twenty most common window layers, **AutoRaise** currently handles level 0 (i.e. Normal Window), carefully avoiding the others.
+Out of the twenty most common window layers, **AutoFocus** currently handles level 0 (i.e. Normal Window), carefully avoiding the others.
 
 ![Layers_1539x1225]({{ site.url }}/images/blog//Layers_1539x1225.png)
 
-To answer the needs of some interesting feature requests, **AutoRaise** might start handling other layers in upcoming releases, so stay tuned.
+To answer the needs of some interesting feature requests, **AutoFocus** might start handling other layers in upcoming releases, so stay tuned.
 
 {:.pt-2}
 [Blog]({{ site.url }}{% link blog.md %}){:.button .button-primary style="text-decoration: none;"}

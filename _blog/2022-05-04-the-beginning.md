@@ -13,7 +13,7 @@ I am a seasoned systems architect and developer, now retired. Through the years 
 
 Pioneering work that laid groundwork for the "Industry 4.0" revolution, a couple of patents, and the expertise I acquired in establishing, as early as 2012, the first industrial IoT application to be delivered over the cloud, put me in a position of offering arguably the best products to answer the ever growing connected Business Intelligence needs.
 
-However, at one point, I considered that my carrier was behind me and that the time had come to tune down my ambitions to adapt to my age. I was tempted to just turn the page and let it go. That's when I remembered AutoRaise, CodeCapsules, FinderFix, Taskan, and TrashEye and how much I enjoyed writing these small utilities. I had also plans and material for more apps.
+However, at one point, I considered that my carrier was behind me and that the time had come to tune down my ambitions to adapt to my age. I was tempted to just turn the page and let it go. That's when I remembered AutoRaise _(AutoRaise has since been renamed to AutoFocus)_, CodeCapsules, FinderFix, Taskan, and TrashEye and how much I enjoyed writing these small utilities. I had also plans and material for more apps.
 
 {:.pb-1}
 ### Mac-dedicated forums
