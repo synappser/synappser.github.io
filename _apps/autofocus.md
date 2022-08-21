@@ -37,4 +37,5 @@ Basically, when you hover your cursor over a window, **AutoFocus** brings it to 
 
 [All Windows Appear](https://www.ixeau.com/all-windows-appear/){:target="_blank"}{:rel="noopener noreferrer"} by **IXeau** has a similar goal, with one caveat though, you must also click on an application's window instead of just hovering over it like with **AutoFocus**.
 
+{:.pt-4}
 [Apps]({{ site.url }}{% link apps.md %}){:.button .button-primary style="text-decoration: none;"}

@@ -11,7 +11,7 @@ layout: service
 
 [Download]({{ site.url }}{% link downloads.md %}){:.button .button-primary style="text-decoration: none;"}
 
-**To submit issues or feature requests, please head to the [Issues](https://github.com/synappser/AutoRaise/issues){:target="_blank"}{:rel="noopener noreferrer"} page.** You might first need to (freely) sign up to a GitHub account if you do not already have one.
+**To submit issues or feature requests, please head to the [Issues](https://github.com/synappser/AutoFocus/issues){:target="_blank"}{:rel="noopener noreferrer"} page.** You might first need to (freely) sign up to a GitHub account if you do not already have one.
 
 <!--break-->
 

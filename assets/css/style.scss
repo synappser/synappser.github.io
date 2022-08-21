@@ -78,6 +78,14 @@ body {
   font-family: $font-family-heading !important;
 }
 
+.half-width {
+  width: 50%;
+}
+
+.quarter-width {
+  width: 25%;
+}
+
 .zoom {
   padding: 5px;
   transition: transform .2s ease;
@@ -260,6 +268,9 @@ body {
         color: $white;
       }
       h2 {
+        color: $gray-500;
+      }
+      ul, li {
         color: $gray-500;
       }
     }

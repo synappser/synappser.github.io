@@ -44,10 +44,15 @@ Yes, they are free while in beta.
 {:.pt-1}
 # TrashEye
 
-{:.pt-1 .pb-4 style="font-size:1rem"}
-Upcoming Public Beta (stay tuned!)
+| System Requirements |
+| ------------------- |
+| Mac computer with an Intel or M1 processor |
 
-{% include legal-note.html %}
+| Version | Download | Release notes | Minimum OS
+| ------- | -------- | ------------- | ----------
+| v0.4.9 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.4.9/TrashEye_v0.4.9b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye.md %}) | macOS 10.13
+
+{% include legal-note.html %}{:.mt-6}
 
 [back to top](#top-anchor)
 
