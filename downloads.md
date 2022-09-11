@@ -24,18 +24,21 @@ Yes, they are free while in beta.
 
 | System Requirements |
 | ------------------- |
-| Mac computer with an Intel or M1 processor |
+| Apple silicon or Intel processor |
 
 | Version | Download | Release notes | Minimum OS
 | ------- | -------- | ------------- | ----------
-| v0.5.9 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.5.9/FinderFix_v0.5.9b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix.md %}) | macOS 10.13
+| v0.6.7 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.6.7/FinderFix_v0.6.7b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.6.7.md %}) | macOS 10.15 *
+| v0.5.9 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.5.9/FinderFix_v0.5.9b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.5.9.md %}) | macOS 10.13
+
+\* _(minimum deployment target 10.13 with no warranties until Apple sorts out its mess with linking to system libraries instead of bundled ones on 10.13 and 10.14)_
 
 {:.pt-1}
 # AutoFocus
 
 | System Requirements |
 | ------------------- |
-| Mac computer with an Intel or M1 processor |
+| Apple silicon or Intel processor |
 
 | Version | Download | Release notes | Minimum OS
 | ------- | -------- | ------------- | ----------
@@ -46,7 +49,7 @@ Yes, they are free while in beta.
 
 | System Requirements |
 | ------------------- |
-| Mac computer with an Intel or M1 processor |
+| Apple silicon or Intel processor |
 
 | Version | Download | Release notes | Minimum OS
 | ------- | -------- | ------------- | ----------

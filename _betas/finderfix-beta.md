@@ -17,6 +17,7 @@ Give extra powers to your Finder windows!
 
 [Read more about its features...]({{ site.url }}/apps/finderfix/)
 
-![image]({{ site.url }}/images/betas/zoom-ff.png){: .zoom }
+![image]({{ site.url }}/images/betas/zoom-ff-01.png){: .zoom }
+![image]({{ site.url }}/images/betas/zoom-ff-02.png){: .zoom }
 
 [Betas]({{ site.url }}{% link services.md %}){:.button .button-primary style="text-decoration: none;"}
