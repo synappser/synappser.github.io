@@ -31,7 +31,7 @@ Yes, they are free while in beta.
 | v0.6.7 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.6.7/FinderFix_v0.6.7b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.6.7.md %}) | macOS 10.15 *
 | v0.5.9 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.5.9/FinderFix_v0.5.9b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.5.9.md %}) | macOS 10.13
 
-\* _(minimum deployment target 10.13 with no warranties until Apple sorts out its mess with linking to system libraries instead of bundled ones on 10.13 and 10.14)_
+\* _(minimum deployment target 10.13 with no warranties until Apple sorts out linking to system libraries instead of bundled ones on 10.13 and 10.14)_
 
 {:.pt-1}
 # AutoFocus
@@ -40,9 +40,12 @@ Yes, they are free while in beta.
 | ------------------- |
 | Apple silicon or Intel processor |
 
-| Version | Download | Release notes | Minimum OS
-| ------- | -------- | ------------- | ----------
-| v0.6.2 | [Public Beta](https://github.com/synappser/AutoRaise/releases/download/v0.6.2/AutoRaise_v0.6.2b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus.md %}) | macOS 10.13
+| Version | Download | Release notes | Minimum OS|
+| ------- | -------- | ------------- | ----------|
+| v0.6.6 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.6.6/AutoFocus_v0.6.6b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.6.md %}) | macOS 10.15 *|
+| v0.6.2 | [Public Beta](https://github.com/synappser/AutoRaise/releases/download/v0.6.2/AutoRaise_v0.6.2b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.2.md %}) | macOS 10.13|
+
+\* _(minimum deployment target 10.13 with no warranties until Apple sorts out linking to system libraries instead of bundled ones on 10.13 and 10.14)_
 
 {:.pt-1}
 # TrashEye
