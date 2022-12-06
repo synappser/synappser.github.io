@@ -1,7 +1,7 @@
 [
   {
     "title": "Privacy",
-    "description": "This site is hosted on GitHub Pages with a custom domain. It respects your privacy (no Google Analytics, no forms, no cookies, no tracking).",
+    "description": "This site is currently hosted on GitHub Pages with no domain redirection. It respects your privacy (no Google Analytics, no forms, no cookies, no tracking).",
     "image": {
       "url": "images/features/privacy.svg",
       "width": 80,

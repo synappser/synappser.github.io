@@ -5,7 +5,10 @@ description: Downloads
 ---
 
 {:.mb-1 style="font-size:1rem;"}
-Apps are currently only signed with an Apple Development Certificate (notarization will soon follow). You might therefore get an *Application is damaged* or *Unidentified Developer* popup stating they *can't be opened*. In which case follow [Apple's instructions for opening an app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac){:target="_blank"}{:rel="noopener noreferrer"} (basically, **control-click the app icon, choose Open from the shortcut menu, then click Open again**) to open either the application or its dmg for the first time.
+Apps are currently only signed with an Apple Development Certificate (without notarization). You might therefore get an *Application is damaged* or *Unidentified Developer* popup stating they *can't be opened*. In which case follow [Apple's instructions for opening an app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac){:target="_blank"}{:rel="noopener noreferrer"} (basically, **control-click the app icon, choose Open from the shortcut menu, then click Open again**) to open either the application or its dmg for the first time.
+
+On macOS Ventura, an additional step might be needed where you go to System Settings > Privacy & Security and scroll down to Security (this is on MacOS 13.1). You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
+
 
 {:#top-anchor}
 **IMPORTANT** - [Read this legal note carefully before downloading any of the following beta apps](#legal-anchor).
@@ -56,7 +59,10 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS
 | ------- | -------- | ------------- | ----------
-| v0.4.9 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.4.9/TrashEye_v0.4.9b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye.md %}) | macOS 10.13
+| v0.5.2 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.2/TrashEye_v0.5.2b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.2.md %}) | macOS 10.14.6 *|
+| v0.4.9 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.4.9/TrashEye_v0.4.9b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.4.9.md %}) | macOS 10.13|
+
+\* _According to the RECOMMENDED_MACOSX_DEPLOYMENT_TARGET build setting that indicates the recommended minimum deployment versions for each supported Xcode platform (currently at 10.14.6)_
 
 {% include legal-note.html %}{:.mt-6}
 
