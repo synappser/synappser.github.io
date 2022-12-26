@@ -11,5 +11,7 @@ layout: release
 - Allow for more global shortcuts
 - Operation windows are now excluded from FinderFix control [[#3](https://github.com/synappser/FinderFix/issues/3){:target="_blank"}{:rel="noopener noreferrer"}]
 
+<br />
+
 {:.pt-2}
 [Downloads]({{ site.url }}{% link downloads.md %}){:.button .button-primary style="text-decoration: none;"}
