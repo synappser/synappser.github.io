@@ -8,9 +8,9 @@ description: Downloads
 Apps are currently only signed with an Apple Development Certificate (without notarization). You might therefore get an *Application is damaged* or *Unidentified Developer* popup stating they *can't be opened*. In which case follow [Apple's instructions for opening an app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac){:target="_blank"}{:rel="noopener noreferrer"} (basically, **control-click the app icon, choose Open from the shortcut menu, then click Open again**) to open either the application or its dmg for the first time.
 
 {:mb-1 style="font-size:0.75rem;"}
-On macOS Ventura, an additional step might be needed where you go to System Settings > Privacy & Security and scroll down to Security (this is on macOS 13.2). You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
+On macOS Ventura, an additional step might be needed where you go to System Settings > Privacy & Security and scroll down to Security. You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
 
-**If you are enjoying my applications, consider giving them a star on [GitHub](https://github.com/synappser){:target="_blank"}{:rel="noopener noreferrer"}**. It would be great if you could also share your experience through forums to help spread the word about their benefits. Thank you!
+**If you are enjoying my applications, consider giving them a star on [GitHub](https://github.com/synappser){:target="_blank"}{:rel="noopener noreferrer"}**. It would be great if you could also share your experience through forums or talk about them on your regular social media channels to help spread the word about their benefits. Thank you!
 
 
 {:#top-anchor}
@@ -50,6 +50,17 @@ Yes, they are free while in beta.
 | ------- | -------- | ------------- | ----------|
 | v0.6.6 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.6.6/AutoFocus_v0.6.6b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.6.md %}) | macOS 10.14.6|
 | v0.6.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.2.md %}) | macOS 10.13|
+
+{:.pt-1}
+# Taskan
+
+| System Requirements |
+| ------------------- |
+| Apple silicon or Intel processor |
+
+| Version | Download | Release notes | Minimum OS|
+| ------- | -------- | ------------- | ----------|
+| v0.3.1 | [Public Beta](https://github.com/synappser/Taskan/releases/download/v0.3.1/Taskan_v0.3.1b.dmg) | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.1.md %}) | macOS 11.0|
 
 {:.pt-1}
 # TrashEye
