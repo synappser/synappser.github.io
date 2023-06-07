@@ -48,7 +48,8 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.6.6 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.6.6/AutoFocus_v0.6.6b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.6.md %}) | macOS 10.14.6|
+| v0.6.7 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.6.7/AutoFocus_v0.6.7b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.7.md %}) | macOS 11.0|
+| v0.6.6 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.6.md %}) | macOS 10.14.6|
 | v0.6.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.2.md %}) | macOS 10.13|
 
 {:.pt-1}
