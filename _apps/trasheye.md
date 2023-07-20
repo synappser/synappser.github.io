@@ -27,6 +27,15 @@ However, all of these were not real-time, sometimes taking several seconds to re
 What's remarkable about **TrashEye** is its real-time refresh rate. It also has practically zero impact on both CPU and memory.
 
 {:.pb-1 .mt-1 .sub-heading}
+## Companion Widget
+
+TrashEye now has a BetterTouchTool Touch Bar companion trash can widget that, beyond showing the number of trashed items, allows you to open the local trash bin by touching the widget's icon.
+
+![Companion Widget]({{ site.url }}/images/apps/companion-widget-cropped.gif)
+
+**[Download the widget](https://github.com/synappser/Companion/releases/download/v1.0/Companion_v1.0.zip?raw=true)** (installation instructions in the zip file)
+
+{:.pb-1 .mt-1 .sub-heading}
 ## Features
 
 - Sliding the switch to On in the Preferences window, displays a Trash icon in the bottom left corner of your Desktop

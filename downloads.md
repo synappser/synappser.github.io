@@ -70,9 +70,19 @@ Yes, they are free while in beta.
 | ------------------- |
 | Apple silicon or Intel processor |
 
-| Version | Download | Release notes | Minimum OS
-| ------- | -------- | ------------- | ----------
-| v0.5.2 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.2/TrashEye_v0.5.2b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.2.md %}) | macOS 10.14.6|
+{:.mt-n1}
+**New!** TrashEye now has a BetterTouchTool Touch Bar companion trash can widget that, beyond showing the number of trashed items, allows you to open the local trash bin by touching the widget's icon.
+
+{:.mt-n3}
+![Companion Widget]({{ site.url }}/images/apps/companion-widget.gif)
+
+{:.mt-n3}
+**[Download the companion widget](https://github.com/synappser/Companion/releases/download/v1.0/Companion_v1.0.zip?raw=true)** (installation instructions in the zip file)
+
+| Version | Download | Release notes | Minimum OS|
+| ------- | -------- | ------------- | ----------|
+| v0.5.3 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.3/TrashEye_v0.5.3b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.3.md %}) | macOS 11.0|
+| v0.5.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.2.md %}) | macOS 10.14.6|
 | v0.4.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.4.9.md %}) | macOS 10.13|
 
 {% include legal-note.html %}{:.mt-6}
