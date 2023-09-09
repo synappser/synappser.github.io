@@ -34,10 +34,11 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
- v0.7.2 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.7.2/FinderFix_v0.7.2b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.2.md %}) | macOS 10.15|
-| v0.7.1 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.1.md %}) | macOS 10.14.6|
-| v0.6.7 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.6.7.md %}) | macOS 10.14.6|
-| v0.5.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.5.9.md %}) | macOS 10.13|
+| v0.7.3 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.7.3/FinderFix_v0.7.3b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.3.md %}) | macOS 11.0 |
+| v0.7.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.2.md %}) | macOS 10.15 |
+| v0.7.1 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.1.md %}) | macOS 10.14.6 |
+| v0.6.7 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.6.7.md %}) | macOS 10.14.6 |
+| v0.5.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.5.9.md %}) | macOS 10.13 |
 
 {:.pt-1}
 # AutoFocus
