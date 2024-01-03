@@ -17,6 +17,7 @@ A Lightweight Task Outliner
 
 [Read more about its features...]({{ site.url }}/apps/taskan/)
 
-![image]({{ site.url }}/images/betas/zoom-tk.png){: .zoom }
+![image]({{ site.url }}/images/betas/zoom-tk-01.png){: .zoom }
+![image]({{ site.url }}/images/betas/zoom-tk-02.png){: .zoom }
 
 [Betas]({{ site.url }}{% link services.md %}){:.button .button-primary style="text-decoration: none;"}

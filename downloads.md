@@ -49,9 +49,9 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.6.7 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.6.7/AutoFocus_v0.6.7b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.7.md %}) | macOS 11.0|
-| v0.6.6 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.6.md %}) | macOS 10.14.6|
-| v0.6.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.2.md %}) | macOS 10.13|
+| v0.6.7 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.6.7/AutoFocus_v0.6.7b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.7.md %}) | macOS 11.0 |
+| v0.6.6 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.6.md %}) | macOS 10.14.6 |
+| v0.6.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.2.md %}) | macOS 10.13 |
 
 {:.pt-1}
 # Taskan
@@ -62,7 +62,8 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.3.1 | [Public Beta](https://github.com/synappser/Taskan/releases/download/v0.3.1/Taskan_v0.3.1b.dmg) | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.1.md %}) | macOS 11.0|
+| v0.3.2 | [Public Beta](https://github.com/synappser/Taskan/releases/download/v0.3.2/Taskan_v0.3.2b.dmg) | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.2.md %}) | macOS 11.0 |
+| v0.3.1 | Public Beta | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.1.md %}) | macOS 11.0 |
 
 {:.pt-1}
 # TrashEye
@@ -82,9 +83,9 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.5.3 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.3/TrashEye_v0.5.3b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.3.md %}) | macOS 11.0|
-| v0.5.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.2.md %}) | macOS 10.14.6|
-| v0.4.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.4.9.md %}) | macOS 10.13|
+| v0.5.3 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.3/TrashEye_v0.5.3b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.3.md %}) | macOS 11.0  |
+| v0.5.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.2.md %}) | macOS 10.14.6 |
+| v0.4.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.4.9.md %}) | macOS 10.13 |
 
 {% include legal-note.html %}{:.mt-6}
 

@@ -24,11 +24,11 @@ Too big a goal, if you can break it down into easily chewable tasks you're half-
 
 <!--break-->
 
-**Taskan** extends other plain-text based outliners such as TaskPaper by focusing on usability. It comes bundled as a handy menu bar application with an easily identifiable checkbox icon. Clicking on the menu bar icon opens the most recent document you were working on.
+**Taskan** extends other plain-text based outliners such as TaskPaper by focusing on usability. It comes bundled as a handy menu bar application with an easily identifiable checkbox icon. Clicking on the menu bar icon opens the most recent document you were working on. If you prefer keyboard-driven navigation and editing, you can also enable Vim mode in the Preferences Editor pane.
 
 Hats off to Jesse Grosjean for developing TaskPaper. Fitting this kind of performance in such a streamlined application is an amazing feat. The more I worked on this project, the greater my admiration grew for Jesse.
 
-**Taskan** is still brittle. It currently lacks its kan(ban) part and the undo stack is partially broken. So don't use it for anything serious yet!
+**Taskan** is still brittle. It currently lacks its kan(ban) part and the undo stack is partially broken. So don't use it for anything serious yet ;)
 
 This first beta release is mostly meant to assess the general interest before diving into a more involved fine-tuning of the idea. It's more of a proof of concept than a true beta. Consider giving it a star on [GitHub](https://github.com/synappser) if you like the concept.
 
