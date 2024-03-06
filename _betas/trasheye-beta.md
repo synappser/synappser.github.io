@@ -7,7 +7,7 @@ layout: service
 ---
 
 {: style="font-weight: bold;"}
-Simply a Trash Can on your Desktop
+Mac OS 9 Trash Can Nostalgia
 
 [Download]({{ site.url }}{% link downloads.md %}){:.button .button-primary style="text-decoration: none;"}
 

@@ -14,7 +14,7 @@ weight: 3
 layout: app
 ---
 
-**Simply a Trash Can on your Desktop**
+**Mac OS 9 Trash Can Nostalgia**
 
 With my laptop's small display, I have Dock-hiding always turned on; anyway the trash icon doesn't show the file count and a quick Command-Option-D brings it back. Like many of you, I got used to the Trash Can on the Desktop with DragThing that I later replaced with Bin-it until the latter was also discontinued. Lately, I even tried iCollections' Trash pane without much success. Some of you may have even know the original Mac OS 9 trash can!
 
