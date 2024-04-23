@@ -8,7 +8,7 @@ description: Downloads
 Apps are currently only signed with an Apple Development Certificate (without notarization). You might therefore get an *Application is damaged* or *Unidentified Developer* popup stating they *can't be opened*. In which case follow [Apple's instructions for opening an app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac){:target="_blank"}{:rel="noopener noreferrer"} (basically, **control-click the app icon, choose Open from the shortcut menu, then click Open again**) to open either the application or its dmg for the first time.
 
 {:mb-1 style="font-size:0.75rem;"}
-On macOS Ventura, an additional step might be needed where you go to System Settings > Privacy & Security and scroll down to Security. You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
+On macOS Ventura (and above), an additional step might be needed where you go to System Settings > Privacy & Security and scroll down to Security. You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
 
 **If you are enjoying my applications, consider giving them a star on [GitHub](https://github.com/synappser){:target="_blank"}{:rel="noopener noreferrer"}**. It would be great if you could also share your experience through forums or talk about them on your regular social media channels to help spread the word about their benefits. Thank you!
 
