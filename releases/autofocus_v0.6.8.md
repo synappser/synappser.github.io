@@ -1,7 +1,7 @@
 ---
 title: "AutoFocus"
 version: "0.6.8"
-date: "Jan 22, 2022"
+date: "Jan 22, 2024"
 image: "images/apps/autofocus.png"
 layout: release
 ---
