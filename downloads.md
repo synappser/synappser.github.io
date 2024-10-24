@@ -87,7 +87,8 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.5.4 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.4/TrashEye_v0.5.4b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.4.md %}) | macOS 11.0  |
+| v0.5.5 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.5/TrashEye_v0.5.5b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.5.md %}) | macOS 11.0  |
+| v0.5.4 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.4.md %}) | macOS 11.0  |
 | v0.5.3 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.3.md %}) | macOS 11.0  |
 | v0.5.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.2.md %}) | macOS 10.14.6 |
 | v0.4.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.4.9.md %}) | macOS 10.13 |
