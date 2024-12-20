@@ -4,11 +4,18 @@ layout: service
 description: Downloads
 ---
 
-{:.mb-1 style="font-size:1rem;"}
-Apps are currently only signed with an Apple Development Certificate (without notarization). You might therefore get an *Application is damaged* or *Unidentified Developer* popup stating they *can't be opened*. In which case follow [Apple's instructions for opening an app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac){:target="_blank"}{:rel="noopener noreferrer"} (basically, **control-click the app icon, choose Open from the shortcut menu, then click Open again**) to open either the application or its dmg for the first time.
+{:.mb-1 style="font-size:0.75rem;"}
+Apps are currently only signed with an Apple Development Certificate (without notarization). You will therefore get an *Application is damaged* or *Unidentified Developer* popup stating they *can't be opened*. Follow [Apple's instructions for opening an app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac){:target="_blank"}{:rel="noopener noreferrer"} (select your OS version in the drop-down menu) to open either the application or its dmg for the first time.
 
-{:mb-1 style="font-size:0.75rem;"}
-On macOS Ventura (and above), an additional step might be needed where you go to System Settings > Privacy & Security and scroll down to Security. You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
+{:.mb-1 style="font-size:0.75rem;"}
+On **macOS Ventura** (up to macOS Sequoia 15.1), an additional step is needed where you go to System Settings > Privacy & Security and scroll down to Security. You'll find a note that the application was not opened because it is from an "Unknown Developer". Click "Open Anyway" then continue ignoring warnings and the program will work.
+
+{:.mb-1 style="font-size:0.75rem;"}
+On **macOS Sequoia 15.1** (and above), [Apple is forcing the notarization of applications](https://hackaday.com/2024/11/01/apple-forces-the-signing-of-applications-in-macos-sequoia-15-1/){:target="_blank"}{:rel="noopener noreferrer"}. A few workarounds are however still available. Depending on your familiarity with running shell commands, you could use one of the following solutions:
+- **xattr -rd com.apple.quarantine /Applications/FinderFix.app** (e.g. disables gatekeeper for FinderFix).
+- **sudo spctl --master-disable** (requires your administrator password and disables gatekeeper permanently).
+- **Drag and drop** the application into the free [Sentinel.app](https://itsalin.com/appInfo/?id=sentinel){:target="_blank"}{:rel="noopener noreferrer"} to remove quarantine.
+{:.mb-1 style="font-size:0.75rem;"}
 
 **If you are enjoying my applications, consider giving them a star on [GitHub](https://github.com/synappser){:target="_blank"}{:rel="noopener noreferrer"}**. It would be great if you could also share your experience through forums or talk about them on your regular social media channels to help spread the word about their benefits. Thank you!
 
@@ -34,7 +41,8 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.7.4 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.7.4/FinderFix_v0.7.4b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.4.md %}) | macOS 11.0 |
+ v0.7.5 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.7.5/FinderFix_v0.7.5b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.5.md %}) | macOS 11.0 |
+| v0.7.4 | Public Beta| [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.4.md %}) | macOS 11.0 |
 | v0.7.3 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.3.md %}) | macOS 11.0 |
 | v0.7.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.2.md %}) | macOS 10.15 |
 | v0.7.1 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.1.md %}) | macOS 10.14.6 |
