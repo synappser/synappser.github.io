@@ -41,7 +41,8 @@ Yes, they are free while in beta.
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
- v0.7.5 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.7.5/FinderFix_v0.7.5b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.5.md %}) | macOS 11.0 |
+v0.7.6 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/v0.7.6/FinderFix_v0.7.6b.dmg) | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.6.md %}) | macOS 11.0 |
+ v0.7.5 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.5.md %}) | macOS 11.0 |
 | v0.7.4 | Public Beta| [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.4.md %}) | macOS 11.0 |
 | v0.7.3 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.3.md %}) | macOS 11.0 |
 | v0.7.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/finderfix_v0.7.2.md %}) | macOS 10.15 |
