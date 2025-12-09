@@ -59,7 +59,8 @@ v0.7.6 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.7.0 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.7.0/AutoFocus_v0.7.0b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.7.0.md %}) | macOS 11.0 |
+| v0.7.1 | [Public Beta](https://github.com/synappser/AutoFocus/releases/download/v0.7.1/AutoFocus_v0.7.1b.dmg) | [Release notes]({{ site.url }}{% link releases/autofocus_v0.7.1.md %}) | macOS 11.0 |
+| v0.7.0 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.7.0.md %}) | macOS 11.0 |
 | v0.6.9 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.9.md %}) | macOS 11.0 |
 | v0.6.8 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.8.md %}) | macOS 11.0 |
 | v0.6.7 | Public Beta | [Release notes]({{ site.url }}{% link releases/autofocus_v0.6.7.md %}) | macOS 11.0 |
@@ -75,7 +76,8 @@ v0.7.6 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.3.4 | [Public Beta](https://github.com/synappser/Taskan/releases/download/v0.3.4/Taskan_v0.3.4b.dmg) | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.4.md %}) | macOS 11.0 |
+| v0.3.5 | [Public Beta](https://github.com/synappser/Taskan/releases/download/v0.3.5/Taskan_v0.3.5b.dmg) | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.5.md %}) | macOS 11.0 |
+| v0.3.4 | Public Beta | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.4.md %}) | macOS 11.0 |
 | v0.3.3 | Public Beta | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.3.md %}) | macOS 11.0 |
 | v0.3.2 | Public Beta | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.2.md %}) | macOS 11.0 |
 | v0.3.1 | Public Beta | [Release notes]({{ site.url }}{% link releases/taskan_v0.3.1.md %}) | macOS 11.0 |
