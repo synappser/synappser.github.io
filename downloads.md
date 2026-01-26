@@ -100,7 +100,8 @@ v0.7.6 | [Public Beta](https://github.com/synappser/FinderFix/releases/download/
 
 | Version | Download | Release notes | Minimum OS|
 | ------- | -------- | ------------- | ----------|
-| v0.5.6 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.6/TrashEye_v0.5.6b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.6.md %}) | macOS 11.0  |
+| v0.5.7 | [Public Beta](https://github.com/synappser/TrashEye/releases/download/v0.5.7/TrashEye_v0.5.7b.dmg) | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.7.md %}) | macOS 11.0  |
+| v0.5.6 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.6.md %}) | macOS 11.0  |
 | v0.5.5 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.5.md %}) | macOS 11.0  |
 | v0.5.4 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.4.md %}) | macOS 11.0  |
 | v0.5.3 | Public Beta | [Release notes]({{ site.url }}{% link releases/trasheye_v0.5.3.md %}) | macOS 11.0  |
